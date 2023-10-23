@@ -3,6 +3,9 @@ a PCB for a lightweight qrp (maximum 10W SSB & CW or 5W on FT8) 1:49 UnUn (also 
 
 Update to Rev. 1.2 with some minor changes (bigger Pads for the Capaciator and updated labeling)
 
+Added a OSH Park shared project for anyone that would like to use that service to get PCBs made for about $17 USD.
+
+
 German speaking Hams will now find a new PDF with build instructions (Bauanleitung) in the repo: https://github.com/DG1JAN/UniBalun/blob/main/Bauanleitung_UniBalun.pdf
 
 ![alt text](https://github.com/DG1JAN/UniBalun/blob/main/rev1_1.jpg)
